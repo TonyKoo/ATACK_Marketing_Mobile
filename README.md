@@ -1,5 +1,5 @@
 # Industry - SSD
-A React Native and .NET Marketing Application created by Athena, Tony, Albert, Crystal, Kasra. Copyright 2020.
+A React Native and .NET Marketing Application. Copyright 2020.
 
 View live demo on your phone by scanning the QR code: [https://expo.io/@kasra-n/atack-marketing](https://expo.io/@kasra-n/atack-marketing)
 
