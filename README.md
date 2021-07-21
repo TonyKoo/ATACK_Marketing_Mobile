@@ -1,4 +1,4 @@
-# Industry - SSD
+# ATACK Marketing Mobile App (Industry Project - SSD)
 A React Native and .NET Marketing Application. Copyright 2020.
 
 View live demo on your phone by scanning the QR code: [https://expo.io/@kasra-n/atack-marketing](https://expo.io/@kasra-n/atack-marketing)
